@@ -19,6 +19,8 @@ Hi there! 👋 I'm Fariha Anjum Aupy, a Computer Science undergrad with a passio
   </a>
 </div>
 
+
+
 # 💻 Tech Stack:
 
 <div align="left">
@@ -63,11 +65,6 @@ Hi there! 👋 I'm Fariha Anjum Aupy, a Computer Science undergrad with a passio
 
 ###
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=0xAupy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=0xAupy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAupy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 
