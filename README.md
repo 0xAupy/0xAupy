@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm Fariha Anjum Aupy, a Computer Science undergrad with a passion for problem-solving, cybersecurity, and full-stack development. Currently, I'm exploring MERN stack development and diving deeper into cryptography and CTF challenges.<br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 <div align="left">
   <a href="https://discord.com/users/1007529960115814522" target="_blank">
