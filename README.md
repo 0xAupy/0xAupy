@@ -1,8 +1,9 @@
 # 💫 About Me:
+
 Hi there! 👋 I'm Fariha Anjum Aupy, a Computer Science undergrad with a passion for problem-solving, cybersecurity, and full-stack development. Currently, I'm exploring MERN stack development and diving deeper into cryptography and CTF challenges.<br>
 
-
 ## 🌐 Socials:
+
 <div align="left">
   <a href="https://discord.com/users/1007529960115814522" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
@@ -16,10 +17,10 @@ Hi there! 👋 I'm Fariha Anjum Aupy, a Computer Science undergrad with a passio
   <a href="mailto:farihaanjumaupy@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>
-</div> 
-
+</div>
 
 # 💻 Tech Stack:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -63,10 +64,17 @@ Hi there! 👋 I'm Fariha Anjum Aupy, a Computer Science undergrad with a passio
 ###
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=0xAupy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=0xAupy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAupy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xAupy/0xAupy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xAupy/0xAupy/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/0xAupy/0xAupy/output/github-snake.svg" />
+</picture>
