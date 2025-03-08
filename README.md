@@ -1,6 +1,5 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-
 # 💫 About Me:
 
 Hi there! 👋 I'm Fariha Anjum Aupy, a Computer Science undergrad with a passion for problem-solving, cybersecurity, and full-stack development. Currently, I'm exploring MERN stack development and diving deeper into cryptography and CTF challenges.<br>
@@ -21,8 +20,6 @@ Hi there! 👋 I'm Fariha Anjum Aupy, a Computer Science undergrad with a passio
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>
 </div>
-
-
 
 # 💻 Tech Stack:
 
