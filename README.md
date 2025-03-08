@@ -59,20 +59,3 @@ Hi there! 👋 I'm Fariha Anjum Aupy, a Computer Science undergrad with a passio
   <img alt="github-snake" src="https://raw.githubusercontent.com/0xAupy/0xAupy/output/github-snake.svg" />
 </picture>
 
-
-# 🌐 Socials:
-
-<div align="left">
-  <a href="https://discord.com/users/1007529960115814522" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
-  </a>
-  <a href="https://instagram.com/au._.py" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/fariha-anjum-aupy-08a9082a5/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:farihaanjumaupy@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
-  </a>
-</div>
