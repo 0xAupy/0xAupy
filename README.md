@@ -47,8 +47,6 @@ Hi there! 👋 I'm Fariha Anjum Aupy, a Computer Science undergrad with a passio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-
-
 # ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
