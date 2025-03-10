@@ -53,7 +53,7 @@ Hi there! 👋 I'm Fariha Anjum Aupy, a Computer Science undergrad with a passio
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAupy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# ✍️ Random Devloper Quote
+# ✍️ Random Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
