@@ -50,12 +50,14 @@ Hi there! 👋 I'm Fariha Anjum Aupy, a Computer Science undergrad with a passio
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=0xAupy&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAupy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# ✍️ Random Dev Quote
+# ✍️ Random Devloper Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+# 🐍 Pet Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xAupy/0xAupy/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xAupy/0xAupy/output/github-snake.svg" />
