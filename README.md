@@ -1,9 +1,8 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner.gif" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
 
 Hi there! 👋 I'm Fariha Anjum Aupy, a Computer Science undergrad with a passion for problem-solving, cybersecurity, and full-stack development. Currently, I'm exploring MERN stack development and diving deeper into cryptography and CTF challenges.<br>
-
 
 # 💻 Tech Stack:
 
@@ -58,9 +57,9 @@ Hi there! 👋 I'm Fariha Anjum Aupy, a Computer Science undergrad with a passio
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 🐍 Pet Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xAupy/0xAupy/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xAupy/0xAupy/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/0xAupy/0xAupy/output/github-snake.svg" />
 </picture>
-
